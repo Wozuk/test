@@ -1,7 +1,5 @@
 package test.org;
 import java.util.ArrayList;
-import java.util.List;
-import java.io.*;
 import java.util.Scanner;
 
 public class Main {
